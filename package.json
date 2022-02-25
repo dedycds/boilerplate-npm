@@ -1,5 +1,6 @@
 {	"author": "dedycds",
 	"name": "fcc-learn-npm-package-json",
+	"description": "A package for testing",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
